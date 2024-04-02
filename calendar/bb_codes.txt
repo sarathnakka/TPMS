@@ -1,0 +1,64 @@
+[heading1]h1[/heading1]
+[heading2]h2[/heading2]
+[heading3]h3[/heading3]
+[heading4]h4[/heading4]
+[heading5]h5[/heading5]
+[heading6]h6[/heading6]
+
+[h1]h1[/h1]
+[h2]h2[/h2]
+[h3]h3[/h3]
+[h4]h4[/h4]
+[h5]h5[/h5]
+[h6]h6[/h6]
+
+[paragraph]some text[/paragraph]
+[p]another text[/p]
+
+[left]text on left[/left]
+[right]text on right[/right]
+[center]text on center[/center]
+[justify]text on justify[/justify]
+
+[bold]bolded text[/bold]
+[b]bolded text[/b]
+
+[italic]italic text[/italic]
+[i]italic text[/i]
+
+[underline]underline text[/underline]
+[u]underline text[/u]
+
+[unordered_list]
+	[item]Item 1[/item]
+	[item]Item 2[/item]
+[/unordered_list]
+
+[ul]
+	[li]Item 1[/li]
+	[li]Item 2[/li]
+[/ul]
+
+[list]
+	[*]Item 1[/*]
+	[*]Item 2[/*]
+[/list]
+
+[ordered_list]
+	[item]Item 1[/item]
+	[item]Item 2[/item]
+[/ordered_list]
+
+[ol]
+	[item]Item 1[/item]
+	[item]Item 2[/item]
+[/ol]
+
+[code]<script>alert(1);</script>[/code]
+[preformatted]<script>alert(1);</script>[/preformatted]
+[pre]<script>alert(1);</script>[/pre]
+
+[break]
+[br]
+[newline]
+[nl]
