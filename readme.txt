@@ -1,4 +1,4 @@
-Free Download Source Code "Tailor Management Software"
+Free Download Source Code "TPMS"
 
 FIRST Download
 
@@ -10,7 +10,7 @@ FIRST Download
 
 4. Download the zip file/ download winrar
 
-5. Extract the file and copy "Tailor Management Software" folder
+5. Extract the file and copy "TPMS" folder
 
 6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
 
@@ -22,7 +22,7 @@ FIRST Download
 
 7.Run the script http://localhost/tailor
 
-Tailor Management System
+Tailor Production Management System
 
 **LOGIN DETAILS** 
 
@@ -30,5 +30,3 @@ Admin
 user: admin
 pass: admin
 
-****** https://www.campcodes.com/ ******
-Subcribe to our Youtube Channel **** SerBermz ****
